@@ -8,3 +8,5 @@ ZCZC Selesai mengerjakan Demo Week 01 (bash dari a01 sampai a12)
 ZCZC Selesai mengerjakan Demo Week 02
 
 ZCZC Selesai mengerjakan Demo Week 03
+
+ZCZC Selesai mengerjakan Demo Week 04
