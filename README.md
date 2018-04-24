@@ -15,4 +15,6 @@ ZCZC Selesai mengerjakan Demo W05
 
 ZCZC Selesai mengerjakan Demo W06
 
-ZCZC Selesai mengerjakan Demo w07
+ZCZC Selesai mengerjakan Demo W07
+
+ZCZC Selesai mengerjakan Demo W08
